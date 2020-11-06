@@ -1,3 +1,3 @@
-#How to run
+# How to run
 
 ```node --experimental-loader ./loader.js .```
